@@ -33,7 +33,7 @@ N/A
 
 ![image](./image/streamlit_screen_shot.jpg)
 
-[Recording](./image/14.07.2022_18.23.03_REC_files/)
+[Recording](https://screenrec.com/share/s3cKhBEfT9)
 
 
 
